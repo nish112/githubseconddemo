@@ -1,4 +1,4 @@
-name: Test Project
+name: Test and deploy Project
 
 on: 
   # case multiple events are needed to trigger the workflow, use below syntax
