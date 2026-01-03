@@ -1,6 +1,8 @@
 name: Test Project
 
 on: 
+  # case multiple events are needed to trigger the workflow, use below syntax
+  # on : [push, pull_request]
   push:
 
 jobs:
